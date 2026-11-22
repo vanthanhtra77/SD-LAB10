@@ -1,0 +1,19 @@
+# Compiled class files
+bin/
+*.class
+
+# Exclude document and text files (Bao cao, van ban)
+*.docx
+*.doc
+*.pdf
+*.zip
+*.rar
+*.7z
+*.txt
+*.md
+docs/
+
+# OS and Temporary files
+*.log
+.DS_Store
+Thumbs.db
